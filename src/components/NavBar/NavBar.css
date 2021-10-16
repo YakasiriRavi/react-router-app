@@ -1,0 +1,17 @@
+.navbar-tabs {    
+    color:rgb(14, 13, 4);
+    background-color: hsl(56, 92%, 51%);
+    padding-top: -10em;
+    height:175px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .title{
+      color:coral;
+    
+  }
+  .login{
+      position: right;
+  }

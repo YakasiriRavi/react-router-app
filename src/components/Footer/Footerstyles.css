@@ -1,0 +1,16 @@
+.main-footer {
+    
+    color:rgb(14, 13, 4);
+    background-color: #aceba4;
+    padding-top: 0.25em;
+    position: relative;
+    bottom: -30;
+    width: 100%;
+  }
+  .list-unstyled{
+      color:azure;
+  }
+  .add{
+      color:rgb(31, 15, 173);
+  }
+  
